@@ -1,6 +1,6 @@
 # HMMsnap
 
-**Hidden Markov Model with signal smoothing for Nuclear Architecture-associated domains peak calling**
+**Hidden Markov Model with signal smoothing for Nuclear Architecture-associated domains Peak calling**
 
 HMMsnap is a command-line tool for calling broad chromatin domains (e.g.,NADs, LADs, Histone modifications) from NAD-seq, DamID-seq, ChIP-seq or other genomic signal data using a multi-state Gaussian HMM with signal smoothing.
 
